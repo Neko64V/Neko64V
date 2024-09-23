@@ -8,7 +8,3 @@
 ## より詳しく
 I was originally online game cheat developer.  
 but now, it's bored :/
-
-## Contact
-Twitter : Neko64V  
-Discord : neko64v
